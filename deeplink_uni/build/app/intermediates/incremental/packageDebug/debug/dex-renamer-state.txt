@@ -1,0 +1,4 @@
+#Sat Dec 22 14:52:25 IST 2018
+base.0=/home/roshan/Desktop/aether/deeplink_uni/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
